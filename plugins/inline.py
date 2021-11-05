@@ -26,7 +26,7 @@ from youtubesearchpython import VideosSearch
 
 buttons = [
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/sinzzbitz"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/sinzzbotz"),
                 InlineKeyboardButton("SUPPORT", url="https://t.me/sinzz_botz"),
             ],
             [
